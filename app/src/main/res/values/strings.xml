@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">myreadings</string>
+    <string name="app_bar_title">My Readings</string>
+
+    <string name="content_desc_app_icon">Icon of the app</string>
+    <string name="content_desc_row_book_image">Picture of the book.</string>
+    <string name="content_desc_expand_book_row_desc">Expand description of the book.</string>
+    <string name="content_desc_book_detail_image">Banner of the book.</string>
+    <string name="content_desc_up_navigate_detail">Go back to books list screen.</string>
+</resources>
